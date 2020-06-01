@@ -45,8 +45,38 @@ h1 {
 }
 
 /* Title Img */
-
 .title-img {
   width: 60%;
   transform: rotate(25deg);
+}
+
+/* Features */
+#features {
+  font-family: "Montserrat";
+  font-weight: 700;
+  text-align: center;
+  padding: 7% 15%;
+  margin: auto;
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: black;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin: 1rem;
+}
+.icon:hover {
+  color: #ff4c68;
 }
